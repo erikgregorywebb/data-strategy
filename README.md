@@ -4,6 +4,11 @@
 - [What is an analytics engineer?](https://blog.getdbt.com/what-is-an-analytics-engineer/)
 - [What your data team is using: the analytics stack](https://technically.dev/posts/what-your-data-team-is-using)
 - [Data Warehouse Benchmark](https://fivetran.com/blog/warehouse-benchmark)
+- [How to build a modern data stack in 30 minutes (Mode)](https://github.com/erikgregorywebb/data-strategy/blob/main/papers/Mode-Analytics-30-minute-tech-stack.pdf)
+
+### Experimentation
+- [How to make sure A/B tests aren’t leading you astray (Mode)](https://github.com/erikgregorywebb/data-strategy/blob/main/papers/2021-Mode-AB-Whitepaper.pdf)
 
 
-- [How to Make Sure A/B Tests Aren’t Leading You Astray](2021-Mode-AB-Whitepaper.pdf)
+### 
+- [When dashboards aren't enough](https://github.com/erikgregorywebb/data-strategy/blob/main/papers/Mode-Dashboard-Not-Enough.pdf)
