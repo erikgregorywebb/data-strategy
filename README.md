@@ -10,5 +10,5 @@
 - [How to make sure A/B tests aren’t leading you astray (Mode)](https://github.com/erikgregorywebb/data-strategy/blob/main/papers/2021-Mode-AB-Whitepaper.pdf)
 
 
-### 
+### Visualization
 - [When dashboards aren't enough](https://github.com/erikgregorywebb/data-strategy/blob/main/papers/Mode-Dashboard-Not-Enough.pdf)
