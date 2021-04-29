@@ -6,9 +6,14 @@
 - [Data Warehouse Benchmark](https://fivetran.com/blog/warehouse-benchmark)
 - [How to build a modern data stack in 30 minutes (Mode)](https://github.com/erikgregorywebb/data-strategy/blob/main/papers/Mode-Analytics-30-minute-tech-stack.pdf)
 
-### Experimentation
-- [How to make sure A/B tests aren’t leading you astray (Mode)](https://github.com/erikgregorywebb/data-strategy/blob/main/papers/2021-Mode-AB-Whitepaper.pdf)
+### Data Teams
+- [Run Your Data Team Like A Product Team](https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/)
+- [10 Steps to Creating a Data-Driven Culture (HBR)](https://hbr.org/2020/02/10-steps-to-creating-a-data-driven-culture)
 
+### Experimentation
+- [Large scale experimentation (stitchfix)](https://multithreaded.stitchfix.com/blog/2020/07/07/large-scale-experimentation/)
+- [Intro to A/B Testing](https://neilpatel.com/blog/ab-testing-introduction/)
+- [How to make sure A/B tests aren’t leading you astray (Mode)](https://github.com/erikgregorywebb/data-strategy/blob/main/papers/2021-Mode-AB-Whitepaper.pdf)
 
 ### Visualization
 - [When dashboards aren't enough](https://github.com/erikgregorywebb/data-strategy/blob/main/papers/Mode-Dashboard-Not-Enough.pdf)
