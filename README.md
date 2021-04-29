@@ -1,3 +1,4 @@
+# By Topic
 ### Data Infrastructure
 - [Emerging Architectures for Modern Data Infrastructure (a16z)](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 - [Future of the Modern Data Stack](https://blog.getdbt.com/future-of-the-modern-data-stack/)
@@ -17,3 +18,13 @@
 
 ### Visualization
 - [When dashboards aren't enough](https://github.com/erikgregorywebb/data-strategy/blob/main/papers/Mode-Dashboard-Not-Enough.pdf)
+
+# Other Resources
+### Newsletters
+- [The Data Science Roundup](http://roundup.fishtownanalytics.com/)
+- [Towards Data Science](https://towardsdatascience.com/about)
+- [Data Science Weekly](https://www.datascienceweekly.org/)
+- [Data Elixir](https://dataelixir.com/)
+
+### Blogs
+- [Locally Optimistic](https://locallyoptimistic.com/)
