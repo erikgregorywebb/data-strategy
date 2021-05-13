@@ -6,6 +6,7 @@
 - [What your data team is using: the analytics stack](https://technically.dev/posts/what-your-data-team-is-using)
 - [Data Warehouse Benchmark](https://fivetran.com/blog/warehouse-benchmark)
 - [How to build a modern data stack in 30 minutes (Mode)](https://github.com/erikgregorywebb/data-strategy/blob/main/papers/Mode-Analytics-30-minute-tech-stack.pdf)
+- [5 things I’ve learned from building analytics stacks at J.P. Morgan and Fivetran](https://towardsdatascience.com/5-things-ive-learned-from-building-analytics-stacks-at-j-p-morgan-and-fivetran-b9235ef0710b)
 
 ### Data Teams
 - [Run Your Data Team Like A Product Team](https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/)
