@@ -20,6 +20,9 @@
 ### Visualization
 - [When dashboards aren't enough](https://github.com/erikgregorywebb/data-strategy/blob/main/papers/Mode-Dashboard-Not-Enough.pdf)
 
+### Meta
+- [Good Data Scientist, Bad Data Scientist](https://ianwhitestone.work/good-ds-bad-ds/)
+
 # Other Resources
 ### Newsletters
 - [The Data Science Roundup](http://roundup.fishtownanalytics.com/)
