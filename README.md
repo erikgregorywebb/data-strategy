@@ -8,6 +8,9 @@
 - [How to build a modern data stack in 30 minutes (Mode)](https://github.com/erikgregorywebb/data-strategy/blob/main/papers/Mode-Analytics-30-minute-tech-stack.pdf)
 - [5 things I’ve learned from building analytics stacks at J.P. Morgan and Fivetran](https://towardsdatascience.com/5-things-ive-learned-from-building-analytics-stacks-at-j-p-morgan-and-fivetran-b9235ef0710b)
 
+### Analytics Engineering
+- [Analytics Engineering Everywhere](https://jasnonaz.medium.com/analytics-engineering-everywhere-d56f363da625)
+
 ### Data Teams
 - [Run Your Data Team Like A Product Team](https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/)
 - [10 Steps to Creating a Data-Driven Culture (HBR)](https://hbr.org/2020/02/10-steps-to-creating-a-data-driven-culture)
