@@ -9,6 +9,7 @@
 - [5 things I’ve learned from building analytics stacks at J.P. Morgan and Fivetran](https://towardsdatascience.com/5-things-ive-learned-from-building-analytics-stacks-at-j-p-morgan-and-fivetran-b9235ef0710b)
 
 ### Analytics Engineering
+- [What is analytics engineering?](https://www.getdbt.com/what-is-analytics-engineering/)
 - [Analytics Engineering Everywhere](https://jasnonaz.medium.com/analytics-engineering-everywhere-d56f363da625)
 
 ### Data Teams
