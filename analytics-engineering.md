@@ -2,6 +2,7 @@
 ### What is an analytics engineer?
 - Provide clean data sets to end users, modeling data in a way that empowers end users to answer their own questions. 
 - Spends their time transforming, testing, deploying, and documenting data.
+- Curates an organization’s data and acts as a resource who wants to make use of it.
 - Deliver well-defined, transformed, tested, documented, and code-reviewed data sets.
 - Apply software engineering best practices like version control and continuous integration to the analytics code base.
 
