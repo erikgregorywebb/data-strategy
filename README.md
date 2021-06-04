@@ -15,6 +15,7 @@
 ### Data Teams
 - [Run Your Data Team Like A Product Team](https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/)
 - [10 Steps to Creating a Data-Driven Culture (HBR)](https://hbr.org/2020/02/10-steps-to-creating-a-data-driven-culture)
+- [Data Maturity Guide (Mode)](https://github.com/erikgregorywebb/data-strategy/blob/main/papers/Maturity-Model-Mode.pdf)
 
 ### Experimentation
 - [Large scale experimentation (stitchfix)](https://multithreaded.stitchfix.com/blog/2020/07/07/large-scale-experimentation/)
