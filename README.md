@@ -25,6 +25,9 @@
 ### Visualization
 - [When dashboards aren't enough](https://github.com/erikgregorywebb/data-strategy/blob/main/papers/Mode-Dashboard-Not-Enough.pdf)
 
+### Technical
+- [Query Optimization](https://hinty.io/devforth/sql-query-optimization-understanding-key-principle/)
+
 ### Meta
 - [Good Data Scientist, Bad Data Scientist](https://ianwhitestone.work/good-ds-bad-ds/)
 
